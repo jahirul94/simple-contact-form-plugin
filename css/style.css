@@ -1,0 +1,33 @@
+#form{
+    padding: 20px 50px 50px 50px;
+    border: 2px solid purple;
+}
+
+.sp_contactForm{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 10px 30px 20px 30px;
+}
+#sp_contact_form_heading{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    color:blueviolet;
+    text-decoration: underline;
+}
+
+.submit_button{
+    padding: 10px 10px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.submit_button:hover{
+    background-color: purple;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+}
